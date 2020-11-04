@@ -80,13 +80,13 @@ header, h1, h2, .da-header, .da-username, .da-channelName, .bda-name, .da-messag
 .theme-dark {
 	--background-primary: var(--dplus-bg-dark-1) !important;
 	--background-secondary: var(--dplus-bg-dark-2) !important;
-	--background-tertiary: var(--dplus-bg-dark-3) !important;
+	--background-tertiary: transparent !important;
 	--background-modifier-hover: hsla(0,8%,34%,0.16) !important;
 	--background-modifier-active: hsla(0,8%,34%,0.24) !important;
 	--background-modifier-selected: hsla(0,8%,34%,0.32) !important;
 	--background-secondary-alt: transparent!important;
 	--background-floating: var(--dplus-bg-dark-3) !important;
-    --channeltextarea-background: transparent !important;
+  --channeltextarea-background: transparent !important;
 	--bd-blue: var(--dplus-accent-color) !important;
 	--background-accent: var(--dplus-accent-color);
 }
